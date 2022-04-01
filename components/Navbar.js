@@ -34,6 +34,7 @@ export const Navbar = () => {
             src={avatar}
             width={40}
             height={40}
+            alt='user avatar'
           />
         </div>
         {currentAccount ? (

@@ -13,7 +13,6 @@ export default function Home() {
       </div>
       <div className={style.rideRequestContainer}>
         <div className={style.rideRequest}>
-          /* location selector */ /* confirm ride */
         </div>
       </div>
     </div>
